@@ -1,3 +1,4 @@
+ {/** navbar active */}
  const menuLinks = document.querySelectorAll('.center-menu a');
 
   menuLinks.forEach(link => {
