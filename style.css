@@ -132,6 +132,10 @@ nav {
   text-align: center;
   padding-bottom: 30px;
 }
+.hero-button .get-button{
+  width: 147px;
+  height: 52px;
+}
 
 .second-binner img,
 .banner img {
